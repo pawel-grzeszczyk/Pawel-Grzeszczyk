@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pawel-grzeszczyk/Pawel-Grzeszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hello there! I'm Paweł Grzeszczyk
+- ⚡ My main field of interest is Data Analytics;
+- 🔭 I study Economic Analytics on Politechnika Gdańska;
+- 🌱 I’m currently working on programming project for my portfolio;
+- 👀 Beside programming I enjoy investing and online business related topics;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Reach me by email: p.grzeszczyk00@gmail.com

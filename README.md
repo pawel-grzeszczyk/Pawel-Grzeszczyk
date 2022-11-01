@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hello there! I'm Paweł Grzeszczyk
-- ⚡ My main field of interest is Data Analytics;
-- 🔭 I study Economic Analytics on Politechnika Gdańska;
-- 🌱 I’m currently working on programming project for my portfolio;
+- ⚡ My main field of interest is Data Science;
+- 🔭 I study Economic Analytics on Gdańsk University of Technology;
+- 🌱 I’m currently working on developing deep learning in TensorFlow skills;
 - 👀 Beside programming I enjoy investing and online business related topics;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Reach me by email: p.grzeszczyk00@gmail.com
